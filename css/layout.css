@@ -48,6 +48,7 @@ body {
 .portfolio-header-image {
   width: 75%;
   height: auto;
+  align-items: right;
 }
 
 #portfolio-header-text-container {
